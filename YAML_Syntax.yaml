@@ -1,0 +1,31 @@
+# Key value pair, If string include more line one work,must be in quotations
+Animal: Dog,
+Fruit: Apple,
+Meal: 'Vegetable Lasagna'
+
+# Array / List
+Drinks:
+  - Smothie
+  - Water
+Meals:
+  - 'Vegetable lasagna'
+  - 'Tomato Soup'
+  - Burger
+
+# Directoreies / Maps
+Burder:
+  Calories: 200
+  Price: 15
+Smothie:
+  Calories: 80
+  Price: 5
+
+# Arrays with Directories
+Drink:
+  - Smothie:
+      Calories: 80
+      Price: 5
+MealsFood:
+  - Burder:
+      Calories: 200
+      Price: 15

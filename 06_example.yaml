@@ -1,0 +1,108 @@
+---
+viena:
+  - type: opel
+    color: red
+    price: 1500
+    capacity: 4
+    registration: 2012
+    Transmission: Automat
+  - type: peugeuot
+    color: red
+    price: 6500
+    capacity: 6
+    registration: 2015
+    Transmission: Manual
+  - type: mercedes
+    color: silver
+    price: 30500
+    capacity: 4
+    registration: 2020
+    Transmission: Manual
+graz:
+  - type: mercedes
+    color: silver
+    price: 30500
+    capacity: 4
+    registration: 2020
+    Transmission: Manual
+  - type: wolvo
+    color: black
+    price: 6900
+    capacity: 4
+    registration: 2014
+    Transmission: Manual
+salzburg:
+  - type: peugeuot
+    color: red
+    price: 6500
+    capacity: 6
+    registration: 2015
+    Transmission: Manual
+  - type: mercedes
+    color: silver
+    price: 30500
+    capacity: 4
+    registration: 2020
+    Transmission: Manual
+  - type: wolvo
+    color: black
+    price: 6900
+    capacity: 4
+    registration: 2014
+    Transmission: Manual
+neder_osterreich:
+  - type: peugeuot
+    color: red
+    price: 6500
+    capacity: 6
+    registration: 2015
+    Transmission: Manual
+  - type: mercedes
+    color: silver
+    price: 30500
+    capacity: 4
+    registration: 2020
+    Transmission: Manual
+  - type: wolvo
+    color: black
+    price: 6900
+    capacity: 4
+    registration: 2014
+    Transmission: Manual
+villach:
+  - type: peugeuot
+    color: red
+    price: 6500
+    capacity: 6
+    registration: 2015
+    Transmission: Manual
+  - type: mercedes
+    color: silver
+    price: 30500
+    capacity: 4
+    registration: 2020
+    Transmission: Manual
+  - type: wolvo
+    color: black
+    price: 6900
+    capacity: 4
+    registration: 2014
+    Transmission: Manual
+  - type: mercedes
+    color: silver
+    price: 30500
+    capacity: 4
+    registration: 2020
+    Transmission: Manual
+  - type: wolvo
+    color: black
+    price: 6900
+    capacity: 4
+    registration: 2014
+    Transmission: Manual
+  - type: opel
+    color: red
+    price: 1500
+    capacity: 4
+    registration: 2012
+    Transmission: Automat

@@ -1,0 +1,41 @@
+String:
+{"name":"Tomas"}
+
+Numbers:
+{"age":30}
+
+Object:
+{
+    "employee":{
+        "name":"Marry",
+        "age":31,
+        "city":"New York
+        }
+}
+
+Array:
+{
+    "employee":["Jerg","Karl","Lukas","Peter","Susan"]
+}
+
+Boolean:
+{"sale":true}
+
+Null:
+{"middlename":null}
+
+Syntax:
+{
+    "student":[
+        {
+            "id":"01",
+            "name:"Tom",
+            "lastname":"Matusek"
+        },
+        {
+            "id":"02",
+            "name":"Markus",
+            "lastname":"Jenson"
+        }
+    ]
+}

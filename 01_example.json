@@ -1,0 +1,67 @@
+{
+  "books": [
+    {
+      "title": "Working Bakcwards",
+      "authors": ["Colin Bryar", "Bill Carr"],
+      "Kindle": 5.99,
+      "Gebundenes Buch": 30.5,
+      "Taschenbuch": 11.91,
+      "Audio-CD": 42.53,
+      "image": "https://m.media-amazon.com/images/I/815k7sxg6zL._SY466_.jpg"
+    },
+    {
+      "title": "Fourth Wing",
+      "authors": ["Rebecca Yarros"],
+      "Kindle": 12.99,
+      "Gebundenes Buch": 18.49,
+      "Taschenbuch": 10.25,
+      "Audio-CD": null,
+      "image": "https://m.media-amazon.com/images/I/916yn8j199L._SY466_.jpg"
+    },
+    {
+      "title": "The Woman in Me",
+      "authors": [" Britney Spears"],
+      "Kindle": 19.99,
+      "Gebundenes Buch": 25.0,
+      "Taschenbuch": null,
+      "Audio-CD": null,
+      "image": "https://m.media-amazon.com/images/I/71904SFwTcL._SY466_.jpg"
+    },
+    {
+      "title": "The Sadness Book (German Edition)",
+      "authors": ["Elias Baar"],
+      "Kindle": null,
+      "Gebundenes Buch": null,
+      "Taschenbuch": 15.07,
+      "Audio-CD": null,
+      "image": "https://m.media-amazon.com/images/I/41hJoJAMH5L._SY466_.jpg"
+    },
+    {
+      "title": "Atomic Habits",
+      "authors": [" James Clear "],
+      "Kindle": 12.99,
+      "Gebundenes Buch": 19.54,
+      "Taschenbuch": 16.16,
+      "Audio-CD": null,
+      "image": "https://m.media-amazon.com/images/I/61rOus07jlL._SY466_.jpg"
+    },
+    {
+      "title": "The 48 Laws Of Power",
+      "authors": [" Robert Greene "],
+      "Kindle": 9.99,
+      "Gebundenes Buch": 92.51,
+      "Taschenbuch": 16.69,
+      "Audio-CD": null,
+      "image": "https://m.media-amazon.com/images/I/41cF79iFTHL._SY466_.jpg"
+    },
+    {
+      "title": "Hundert Klassiker",
+      "authors": [" Steffen Henssler"],
+      "Kindle": 22.99,
+      "Gebundenes Buch": 29.9,
+      "Taschenbuch": null,
+      "Audio-CD": null,
+      "image": "https://m.media-amazon.com/images/I/71gtOc6OfKL._SY466_.jpg"
+    }
+  ]
+}

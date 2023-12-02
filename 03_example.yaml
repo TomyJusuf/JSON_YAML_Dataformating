@@ -1,0 +1,49 @@
+- id: 1212
+  isActive: true
+  balance $: '1,742.36'
+  age: 34
+  name: John
+  gender: male
+  email: johnwood@mail.com
+  phone: '+1(972)576-2049'
+  adress: '1245 New Board, Toronto, 6644'
+  friends:
+    - id: 0
+      name: 'Luca Connon'
+    - id: 1
+      name: 'Jack Smith'
+    - id: 2
+      name: 'Michael Don'
+  visited countries:
+    - California
+    - New Mexico
+    - Kanada
+    - China
+    - Belgium
+    - Danish
+    - Czech
+  Favorite Food: banana
+- id: 1213
+  isActive: false
+  balance $: '2,578.36'
+  age: 25
+  name: Eve
+  gender: female
+  email: evewood@gmail.com
+  phone: '+1(972)576-2048'
+  adress: '1245 New Board, Toronto,6644'
+  friends:
+    - id: 0
+      name: Luca Connon
+    - id: 1
+      name: Merry Smith
+    - id: 2
+      name: Lucia Doniuts
+  visited countries:
+    - California
+    - New Mexico
+    - China
+    - Belgium
+    - Danish
+    - Czech
+  favorite food: avocado
